@@ -1,1 +1,1 @@
-build-aux = git://mingw.git.sourceforge.net/gitroot/mingw/build-aux
+build-aux = ../build-aux
